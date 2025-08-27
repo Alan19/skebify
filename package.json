@@ -10,10 +10,10 @@
     "package": "plasmo package"
   },
   "dependencies": {
-    "dompurify": "^2.4.1",
-    "plasmo": "0.86.3",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "dompurify": "3.2.4",
+    "plasmo": "0.90.5",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
   },
   "devDependencies": {
     "@plasmohq/prettier-plugin-sort-imports": "3.6.0",

@@ -1,6 +1,6 @@
 {
     "acceptable": {
-        "message": "Asking ¥$1",
+        "message": "Asking: ¥$1",
         "description": "The asking price"
     },
     "request": {
